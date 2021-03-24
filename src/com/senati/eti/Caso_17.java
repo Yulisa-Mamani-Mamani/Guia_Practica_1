@@ -29,6 +29,7 @@ public class Caso_17 {
 		System.out.println("Desaprobados...: " + df.format(pd) + "%");
 		System.out.println("Retirados......: " + df.format(pr) + "%");
 
+		
 	}
 
 }

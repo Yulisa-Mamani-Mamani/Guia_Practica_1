@@ -13,6 +13,7 @@ public class Caso_12 {
 		System.out.println("Palabra 1...: " + pl1);
 		System.out.println("Palabra 2...: " + pl2);
 		System.out.println("Palabra 3...: " + pl3);
+		
 
 	}
 

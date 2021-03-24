@@ -20,6 +20,7 @@ public class Caso_9 {
 		System.out.println("Área del rectángulo.......: " + area);
 		System.out.println("Perímetro del rectángulo..: " + perimetro);
 
+		
 	}
 
 }

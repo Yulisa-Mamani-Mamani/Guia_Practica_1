@@ -21,7 +21,6 @@ public class Caso_2 {
 				
 		System.out.println("----- Valor Ingresado -----");
 		System.out.println("Número: " + n);
-		
 
 	}
 

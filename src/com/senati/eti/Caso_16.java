@@ -30,6 +30,7 @@ public class Caso_16 {
 		System.out.println("Total..............: " + df.format(total));
 		System.out.println("Total en dólares...: " + df.format(dol));
 
+		
 	}
 
 }

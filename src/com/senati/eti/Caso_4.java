@@ -27,6 +27,7 @@ public class Caso_4 {
 		System.out.println("Producto........: " + producto);
 		System.out.println("División........: " + division);
 		System.out.println("Resto Entero....: " + restoentero);
+		
 
 	}
 

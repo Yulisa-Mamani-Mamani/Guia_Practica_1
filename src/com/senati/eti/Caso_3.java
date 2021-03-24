@@ -18,7 +18,6 @@ public class Caso_3 {
 		System.out.println("----- Valores Ingresados -----");
 		System.out.println("Número 1: " + n1);
 		System.out.println("Número 2: " + n2);
-
 	}
 
 }

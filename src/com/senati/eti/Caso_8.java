@@ -16,7 +16,6 @@ public class Caso_8 {
 		System.out.println("----- Resultados -----");
 		System.out.println("Área del cuadrado.......: " + area);
 		System.out.println("Perímetro del cuadrado..: " + perimetro);
-
 	}
 
 }

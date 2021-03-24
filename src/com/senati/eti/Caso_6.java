@@ -8,7 +8,7 @@ public class Caso_6 {
 		int res1 = (int) Math.pow(5, 3); 
 				
 		// el pow te permite sacar potencias 
-		//81 elevado a la inversa de 2 (1/2) o cualquiera
+		// 81 elevado a la inversa de 2 (1/2) o cualquiera
 		// te permite sacar raíces
 		float res2 = (float)Math.pow(81, 1/2.0); 
 		float res3 = (float)Math.pow(125, 1/3.0); 
@@ -21,7 +21,6 @@ public class Caso_6 {
 		System.out.println("Resultado 2....: " + res2);
 		System.out.println("Resultado 3....: " + res3);
 		System.out.println("Resultado 4....: " + res6);
-		
 
 	}
 

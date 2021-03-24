@@ -7,7 +7,7 @@ public class Caso_7 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		DecimalFormat df = new DecimalFormat("#.0");
+		DecimalFormat df = new DecimalFormat("#.00");
 		
 		float po = (float) Math.pow(3, 2); 
 		
@@ -16,8 +16,7 @@ public class Caso_7 {
 		float b = 2 * ((float)(4.7) - ((float)(1.2) * 2)); 
 		
 		System.out.println("----- Resultados -----");
-		System.out.println("Resultado ....: " + df.format((a - b))); 
-
+		System.out.println("Resultado ....: " + df.format((a - b)));
 	}
 
 }

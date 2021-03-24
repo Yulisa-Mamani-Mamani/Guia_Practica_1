@@ -16,6 +16,7 @@ public class Caso_13 {
 		System.out.println("\n-------- Resultados --------");
 		System.out.println("Alumno(a)...: " + nombre + " " + apellido);
 
+		
 	}
 
 }

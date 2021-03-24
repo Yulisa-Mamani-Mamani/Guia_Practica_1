@@ -19,7 +19,8 @@ public class Caso_19 {
 		int perimetro = l1 + l2 + l3;
 		
 		System.out.println("----- R E S U L T A D O S -----");
-		System.out.println("Perímetro del triángulo.......: " + perimetro); 
+		System.out.println("Perímetro del triángulo.......: " + perimetro);
+		
 
 	}
 

@@ -11,7 +11,8 @@ public class Caso_11 {
 		String nombre = sc.nextLine();
 		
 		System.out.println("----- Resultados -----");
-		System.out.println("Cantidad de caracteres...: " + nombre.length());
+		System.out.println("Cantidad de caracteres...: " + 
+		                    nombre.length());
 
 	}
 
