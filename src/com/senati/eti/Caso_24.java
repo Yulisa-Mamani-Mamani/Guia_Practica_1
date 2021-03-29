@@ -20,7 +20,7 @@ public class Caso_24 {
 		
 		float r1 = (m1 / 5) + ((m2 * (float)(0.2)));
 		float r2 = (m3 + (m3 * (float)(0.6))) / 2;
-		float r3 = (m1 + m2 + m3) - ((m1 + m2 + m3) * (float)(0.8));
+		float r3 = (m1 + m2 + m3) - ((m1 + m2 + m3) * (float)(0.08));
 		
 		
 		System.out.println("*******************************");
