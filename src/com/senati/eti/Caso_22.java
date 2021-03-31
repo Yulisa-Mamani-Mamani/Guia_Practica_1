@@ -22,7 +22,7 @@ public class Caso_22 {
 		float n3 = sc.nextInt();
 		
 		float promedio = ((n1 * (float)(0.2)) + ((n2 * (float)(0.3))) +
-				          ((n1 * (float)(0.5)))) / 3;
+				          ((n1 * (float)(0.5)))) ;
 		
 		System.out.println("***********************");
 		System.out.println("      RESULTADOS       ");
